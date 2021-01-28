@@ -1,1 +1,1 @@
-A test of RStudio and Git
+A test of RStudio and Git 2
